@@ -46,5 +46,6 @@ public class AsciiArt {
         System.out.println("|\\---/|       /\\_/\\");
         System.out.println("| o_o |      ( o.o )");
         System.out.println(" \\_^_/        > ^ < ");
+        
     }
 }
